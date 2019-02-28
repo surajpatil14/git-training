@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_4KQBETs5Eem848fNX2mQCQ" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2019-02-28T14:28:32.000+0530" author="_4KQBEjs5Eem848fNX2mQCQ" productVersion="Talend Data Fabric-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/surajpatil14/git-training.git&quot;,&quot;login&quot;:&quot;spatil@talend.com&quot;,&quot;passwd&quot;:&quot;Kft2ZSSa4ZQqhxJ2OsCKpg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+  <TalendProperties:Project xmi:id="_4KQBETs5Eem848fNX2mQCQ" label="labs" description="" language="java" technicalLabel="LABS" creationDate="2019-02-28T14:28:32.000+0530" author="_4KQBEjs5Eem848fNX2mQCQ" productVersion="Talend Data Fabric-7.1.1.20181026_1147" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/surajpatil14/git-training.git&quot;,&quot;login&quot;:&quot;spatil@talend.com&quot;,&quot;passwd&quot;:&quot;Kft2ZSSa4ZQqhxJ2OsCKpg==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_4OFYMDs5Eem848fNX2mQCQ" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_4KQBEjs5Eem848fNX2mQCQ" login="admin@company.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_6AS8sDs5Eem848fNX2mQCQ" login="spatil@talend.com" firstName="Git" lastName="User" type="DI" additionnalData="{}"/>
 </xmi:XMI>
